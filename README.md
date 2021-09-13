@@ -1,4 +1,4 @@
-# UNVEST Treasure Hunt - Pirate's Support
+# UNVEST Treasure Hunt - Community Collaboration
 
 ## Project setup
 ```
