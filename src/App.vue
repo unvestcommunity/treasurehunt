@@ -29,7 +29,7 @@
     <footer>
         <p>
           This tool was made to help Unvest community to find the treasure key.<br/><br/>
-          Please do not hesitate to show some love here :)<br/><br/>
+          If you found that this tool did help, do not hesitate to show some love here :)<br/><br/>
           0xEa89908348D2D9E3A6e7BE531d5FaB8F360d235B
           <br/><br/>
         </p>
